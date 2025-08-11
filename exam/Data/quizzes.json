@@ -1,0 +1,560 @@
+[
+    {
+        "Id": "hist01",
+        "Title": "История",
+        "Questions": [
+            {
+                "Text": "Кто стал первым президентом США?",
+                "Answers": [
+                    { "Text": "Джордж Вашингтон", "IsCorrect": true },
+                    { "Text": "Абрахам Линкольн", "IsCorrect": false },
+                    { "Text": "Джон Адамс", "IsCorrect": false },
+                    { "Text": "Томас Джефферсон", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Какие годы относятся к Второй мировой войне?",
+                "Answers": [
+                    { "Text": "1939", "IsCorrect": true },
+                    { "Text": "1945", "IsCorrect": true },
+                    { "Text": "1918", "IsCorrect": false },
+                    { "Text": "1950", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Кто был основателем Монгольской империи?",
+                "Answers": [
+                    { "Text": "Чингисхан", "IsCorrect": true },
+                    { "Text": "Аттила", "IsCorrect": false },
+                    { "Text": "Тамерлан", "IsCorrect": false },
+                    { "Text": "Кубилай-хан", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Какие события произошли в начале XX века в России?",
+                "Answers": [
+                    { "Text": "Октябрьская революция 1917", "IsCorrect": true },
+                    { "Text": "Первая русская революция 1905", "IsCorrect": true },
+                    { "Text": "Начало Великой Отечественной войны", "IsCorrect": false },
+                    { "Text": "Образование СССР", "IsCorrect": true }
+                ]
+            },
+            {
+                "Text": "Кто написал 'Войну и мир'?",
+                "Answers": [
+                    { "Text": "Лев Толстой", "IsCorrect": true },
+                    { "Text": "Фёдор Достоевский", "IsCorrect": false },
+                    { "Text": "Александр Пушкин", "IsCorrect": false },
+                    { "Text": "Иван Тургенев", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Какие древние города были центрами цивилизации?",
+                "Answers": [
+                    { "Text": "Вавилон", "IsCorrect": true },
+                    { "Text": "Афины", "IsCorrect": true },
+                    { "Text": "Рим", "IsCorrect": true },
+                    { "Text": "Карфаген", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Кто был первым космонавтом?",
+                "Answers": [
+                    { "Text": "Юрий Гагарин", "IsCorrect": true },
+                    { "Text": "Нил Армстронг", "IsCorrect": false },
+                    { "Text": "Алексей Леонов", "IsCorrect": false },
+                    { "Text": "Валентина Терешкова", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "В каком году распался СССР?",
+                "Answers": [
+                    { "Text": "1991", "IsCorrect": true },
+                    { "Text": "1989", "IsCorrect": false },
+                    { "Text": "1995", "IsCorrect": false },
+                    { "Text": "2000", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Кто был королём Франции во время революции 1789 года?",
+                "Answers": [
+                    { "Text": "Людовик XVI", "IsCorrect": true },
+                    { "Text": "Наполеон Бонапарт", "IsCorrect": false },
+                    { "Text": "Людовик XIV", "IsCorrect": false },
+                    { "Text": "Карл Великий", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Где находились пирамиды Хеопса?",
+                "Answers": [
+                    { "Text": "Египет", "IsCorrect": true },
+                    { "Text": "Мексика", "IsCorrect": false },
+                    { "Text": "Китай", "IsCorrect": false },
+                    { "Text": "Индия", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Кто был первым человеком на Луне?",
+                "Answers": [
+                    { "Text": "Нил Армстронг", "IsCorrect": true },
+                    { "Text": "Юрий Гагарин", "IsCorrect": false },
+                    { "Text": "Базз Олдрин", "IsCorrect": false },
+                    { "Text": "Джон Гленн", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "В каком году началась Первая мировая война?",
+                "Answers": [
+                    { "Text": "1914", "IsCorrect": true },
+                    { "Text": "1939", "IsCorrect": false },
+                    { "Text": "1922", "IsCorrect": false },
+                    { "Text": "1905", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Какие римские императоры были известны в истории?",
+                "Answers": [
+                    { "Text": "Октавиан Август", "IsCorrect": true },
+                    { "Text": "Юлий Цезарь", "IsCorrect": true },
+                    { "Text": "Нерон", "IsCorrect": true },
+                    { "Text": "Тиберий", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Как называлась столица Византийской империи?",
+                "Answers": [
+                    { "Text": "Константинополь", "IsCorrect": true },
+                    { "Text": "Афины", "IsCorrect": false },
+                    { "Text": "Рим", "IsCorrect": false },
+                    { "Text": "Иерусалим", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Кто был первым императором Китая?",
+                "Answers": [
+                    { "Text": "Цинь Шихуанди", "IsCorrect": true },
+                    { "Text": "Мао Цзэдун", "IsCorrect": false },
+                    { "Text": "Сунь Ятсен", "IsCorrect": false },
+                    { "Text": "Кубилай-хан", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "В каком году началась Великая Отечественная война?",
+                "Answers": [
+                    { "Text": "1941", "IsCorrect": true },
+                    { "Text": "1939", "IsCorrect": false },
+                    { "Text": "1945", "IsCorrect": false },
+                    { "Text": "1953", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Кто был лидером СССР во время Второй мировой войны?",
+                "Answers": [
+                    { "Text": "Иосиф Сталин", "IsCorrect": true },
+                    { "Text": "Владимир Ленин", "IsCorrect": false },
+                    { "Text": "Никита Хрущёв", "IsCorrect": false },
+                    { "Text": "Михаил Горбачёв", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Кто был королём Англии во время Столетней войны?",
+                "Answers": [
+                    { "Text": "Эдуард III", "IsCorrect": true },
+                    { "Text": "Генрих VIII", "IsCorrect": false },
+                    { "Text": "Ричард Львиное Сердце", "IsCorrect": false },
+                    { "Text": "Яков I", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "В каком году была основана Москва?",
+                "Answers": [
+                    { "Text": "1147", "IsCorrect": true },
+                    { "Text": "1237", "IsCorrect": false },
+                    { "Text": "1380", "IsCorrect": false },
+                    { "Text": "1703", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Кто был первым канцлером Германии?",
+                "Answers": [
+                    { "Text": "Отто фон Бисмарк", "IsCorrect": true },
+                    { "Text": "Адольф Гитлер", "IsCorrect": false },
+                    { "Text": "Ангела Меркель", "IsCorrect": false },
+                    { "Text": "Гельмут Коль", "IsCorrect": false }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "bio01",
+        "Title": "Биология",
+        "Questions": [
+            {
+                "Text": "Какие органы отвечают за кровообращение?",
+                "Answers": [
+                    { "Text": "Сердце", "IsCorrect": true },
+                    { "Text": "Печень", "IsCorrect": false },
+                    { "Text": "Лёгкие", "IsCorrect": true },
+                    { "Text": "Почки", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Как называется процесс превращения гусеницы в бабочку?",
+                "Answers": [
+                    { "Text": "Метаморфоз", "IsCorrect": true },
+                    { "Text": "Фотосинтез", "IsCorrect": false },
+                    { "Text": "Дыхание", "IsCorrect": false },
+                    { "Text": "Опыление", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Какие элементы важны для организма человека?",
+                "Answers": [
+                    { "Text": "Железо", "IsCorrect": true },
+                    { "Text": "Кальций", "IsCorrect": true },
+                    { "Text": "Магний", "IsCorrect": true },
+                    { "Text": "Натрий", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Какой орган отвечает за фильтрацию крови?",
+                "Answers": [
+                    { "Text": "Почки", "IsCorrect": true },
+                    { "Text": "Сердце", "IsCorrect": false },
+                    { "Text": "Лёгкие", "IsCorrect": false },
+                    { "Text": "Желудок", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Как называется основной процесс получения энергии у растений?",
+                "Answers": [
+                    { "Text": "Фотосинтез", "IsCorrect": true },
+                    { "Text": "Дыхание", "IsCorrect": false },
+                    { "Text": "Опыление", "IsCorrect": false },
+                    { "Text": "Рост", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Какие органы участвуют в дыхании?",
+                "Answers": [
+                    { "Text": "Лёгкие", "IsCorrect": true },
+                    { "Text": "Сердце", "IsCorrect": true },
+                    { "Text": "Печень", "IsCorrect": false },
+                    { "Text": "Почки", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Какой процесс происходит в митохондриях клетки?",
+                "Answers": [
+                    { "Text": "Образование энергии", "IsCorrect": true },
+                    { "Text": "Деление клетки", "IsCorrect": false },
+                    { "Text": "Синтез белка", "IsCorrect": false },
+                    { "Text": "Фотосинтез", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Как называется наука о животных?",
+                "Answers": [
+                    { "Text": "Зоология", "IsCorrect": true },
+                    { "Text": "Ботаника", "IsCorrect": false },
+                    { "Text": "Экология", "IsCorrect": false },
+                    { "Text": "Генетика", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Какие органы участвуют в пищеварении?",
+                "Answers": [
+                    { "Text": "Желудок", "IsCorrect": true },
+                    { "Text": "Сердце", "IsCorrect": false },
+                    { "Text": "Почки", "IsCorrect": false },
+                    { "Text": "Печень", "IsCorrect": true }
+                ]
+            },
+            {
+                "Text": "Какой тип клеток передает нервные импульсы?",
+                "Answers": [
+                    { "Text": "Нейроны", "IsCorrect": true },
+                    { "Text": "Эритроциты", "IsCorrect": false },
+                    { "Text": "Лейкоциты", "IsCorrect": false },
+                    { "Text": "Эпителий", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Какой орган отвечает за выработку инсулина?",
+                "Answers": [
+                    { "Text": "Поджелудочная железа", "IsCorrect": true },
+                    { "Text": "Печень", "IsCorrect": false },
+                    { "Text": "Почки", "IsCorrect": false },
+                    { "Text": "Сердце", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Какие процессы происходят в клетке?",
+                "Answers": [
+                    { "Text": "Митоз", "IsCorrect": true },
+                    { "Text": "Мейоз", "IsCorrect": true },
+                    { "Text": "Фотосинтез", "IsCorrect": false },
+                    { "Text": "Метаморфоз", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Какой орган отвечает за равновесие тела?",
+                "Answers": [
+                    { "Text": "Внутреннее ухо", "IsCorrect": true },
+                    { "Text": "Сердце", "IsCorrect": false },
+                    { "Text": "Печень", "IsCorrect": false },
+                    { "Text": "Почки", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Какой элемент необходим для костей?",
+                "Answers": [
+                    { "Text": "Кальций", "IsCorrect": true },
+                    { "Text": "Железо", "IsCorrect": false },
+                    { "Text": "Магний", "IsCorrect": false },
+                    { "Text": "Натрий", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Как называется наука о растениях?",
+                "Answers": [
+                    { "Text": "Ботаника", "IsCorrect": true },
+                    { "Text": "Зоология", "IsCorrect": false },
+                    { "Text": "Генетика", "IsCorrect": false },
+                    { "Text": "Экология", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Какой орган отвечает за выведение мочи?",
+                "Answers": [
+                    { "Text": "Почки", "IsCorrect": true },
+                    { "Text": "Печень", "IsCorrect": false },
+                    { "Text": "Сердце", "IsCorrect": false },
+                    { "Text": "Лёгкие", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Какой орган отвечает за выработку желчи?",
+                "Answers": [
+                    { "Text": "Печень", "IsCorrect": true },
+                    { "Text": "Почки", "IsCorrect": false },
+                    { "Text": "Сердце", "IsCorrect": false },
+                    { "Text": "Лёгкие", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Какой орган отвечает за защиту организма от инфекций?",
+                "Answers": [
+                    { "Text": "Иммунная система", "IsCorrect": true },
+                    { "Text": "Печень", "IsCorrect": false },
+                    { "Text": "Почки", "IsCorrect": false },
+                    { "Text": "Сердце", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Какие органы отвечают за восприятие?",
+                "Answers": [
+                    { "Text": "Глаза", "IsCorrect": true },
+                    { "Text": "Уши", "IsCorrect": true },
+                    { "Text": "Нос", "IsCorrect": true },
+                    { "Text": "Язык", "IsCorrect": true }
+                ]
+            },
+            {
+                "Text": "Какой орган отвечает за координацию движений?",
+                "Answers": [
+                    { "Text": "Мозжечок", "IsCorrect": true },
+                    { "Text": "Сердце", "IsCorrect": false },
+                    { "Text": "Печень", "IsCorrect": false },
+                    { "Text": "Почки", "IsCorrect": false }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "geo01",
+        "Title": "География",
+        "Questions": [
+            {
+                "Text": "Какая самая длинная река в мире?",
+                "Answers": [
+                    { "Text": "Нил", "IsCorrect": true },
+                    { "Text": "Амазонка", "IsCorrect": false },
+                    { "Text": "Миссисипи", "IsCorrect": false },
+                    { "Text": "Янцзы", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Какие материки считаются самыми большими?",
+                "Answers": [
+                    { "Text": "Евразия", "IsCorrect": true },
+                    { "Text": "Африка", "IsCorrect": true },
+                    { "Text": "Северная Америка", "IsCorrect": false },
+                    { "Text": "Австралия", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "В какой стране находится гора Эверест?",
+                "Answers": [
+                    { "Text": "Непал", "IsCorrect": true },
+                    { "Text": "Китай", "IsCorrect": false },
+                    { "Text": "Индия", "IsCorrect": false },
+                    { "Text": "Пакистан", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Какие океаны омывают Россию?",
+                "Answers": [
+                    { "Text": "Тихий океан", "IsCorrect": true },
+                    { "Text": "Атлантический океан", "IsCorrect": false },
+                    { "Text": "Индийский океан", "IsCorrect": false },
+                    { "Text": "Северный Ледовитый океан", "IsCorrect": true }
+                ]
+            },
+            {
+                "Text": "Столицей какой страны является Канберра?",
+                "Answers": [
+                    { "Text": "Австралия", "IsCorrect": true },
+                    { "Text": "Канада", "IsCorrect": false },
+                    { "Text": "Новая Зеландия", "IsCorrect": false },
+                    { "Text": "ЮАР", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Какой город является столицей Японии?",
+                "Answers": [
+                    { "Text": "Токио", "IsCorrect": true },
+                    { "Text": "Осака", "IsCorrect": false },
+                    { "Text": "Киото", "IsCorrect": false },
+                    { "Text": "Хиросима", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Какие известные водопады есть в мире?",
+                "Answers": [
+                    { "Text": "Анхель", "IsCorrect": true },
+                    { "Text": "Ниагарский водопад", "IsCorrect": true },
+                    { "Text": "Виктория", "IsCorrect": true },
+                    { "Text": "Игуасу", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Какой остров самый большой в мире?",
+                "Answers": [
+                    { "Text": "Гренландия", "IsCorrect": true },
+                    { "Text": "Мадагаскар", "IsCorrect": false },
+                    { "Text": "Борнео", "IsCorrect": false },
+                    { "Text": "Новая Гвинея", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Какой город называют 'городом на семи холмах'?",
+                "Answers": [
+                    { "Text": "Рим", "IsCorrect": true },
+                    { "Text": "Париж", "IsCorrect": false },
+                    { "Text": "Москва", "IsCorrect": false },
+                    { "Text": "Лондон", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "На каких материках находится пустыня Сахара?",
+                "Answers": [
+                    { "Text": "Африка", "IsCorrect": true },
+                    { "Text": "Азия", "IsCorrect": false },
+                    { "Text": "Австралия", "IsCorrect": false },
+                    { "Text": "Южная Америка", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Какие океаны омывают берега Австралии?",
+                "Answers": [
+                    { "Text": "Индийский океан", "IsCorrect": true },
+                    { "Text": "Атлантический океан", "IsCorrect": false },
+                    { "Text": "Тихий океан", "IsCorrect": true },
+                    { "Text": "Северный Ледовитый океан", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Какой город является столицей Бразилии?",
+                "Answers": [
+                    { "Text": "Бразилиа", "IsCorrect": true },
+                    { "Text": "Рио-де-Жанейро", "IsCorrect": false },
+                    { "Text": "Сан-Паулу", "IsCorrect": false },
+                    { "Text": "Салвадор", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Какой материк полностью находится в южном полушарии?",
+                "Answers": [
+                    { "Text": "Австралия", "IsCorrect": true },
+                    { "Text": "Африка", "IsCorrect": false },
+                    { "Text": "Южная Америка", "IsCorrect": false },
+                    { "Text": "Евразия", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Какой город является столицей Канады?",
+                "Answers": [
+                    { "Text": "Оттава", "IsCorrect": true },
+                    { "Text": "Торонто", "IsCorrect": false },
+                    { "Text": "Монреаль", "IsCorrect": false },
+                    { "Text": "Ванкувер", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Какой полуостров самый большой в мире?",
+                "Answers": [
+                    { "Text": "Аравийский полуостров", "IsCorrect": true },
+                    { "Text": "Индостан", "IsCorrect": false },
+                    { "Text": "Скандинавский", "IsCorrect": false },
+                    { "Text": "Балканский", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Какой город является столицей Египта?",
+                "Answers": [
+                    { "Text": "Каир", "IsCorrect": true },
+                    { "Text": "Александрия", "IsCorrect": false },
+                    { "Text": "Гиза", "IsCorrect": false },
+                    { "Text": "Луксор", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Какие материки считаются самыми маленькими?",
+                "Answers": [
+                    { "Text": "Австралия", "IsCorrect": true },
+                    { "Text": "Европа", "IsCorrect": true },
+                    { "Text": "Антарктида", "IsCorrect": false },
+                    { "Text": "Африка", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Какой город является столицей Индии?",
+                "Answers": [
+                    { "Text": "Нью-Дели", "IsCorrect": true },
+                    { "Text": "Мумбаи", "IsCorrect": false },
+                    { "Text": "Бангалор", "IsCorrect": false },
+                    { "Text": "Ченнаи", "IsCorrect": false }
+                ]
+            },
+            {
+                "Text": "Какие города являются столицами европейских стран?",
+                "Answers": [
+                    { "Text": "Париж", "IsCorrect": true },
+                    { "Text": "Марсель", "IsCorrect": false },
+                    { "Text": "Лондон", "IsCorrect": true },
+                    { "Text": "Берлин", "IsCorrect": true }
+                ]
+            },
+            {
+                "Text": "Какой самый высокий горный хребет в мире?",
+                "Answers": [
+                    { "Text": "Гималаи", "IsCorrect": true },
+                    { "Text": "Анды", "IsCorrect": false },
+                    { "Text": "Альпы", "IsCorrect": false },
+                    { "Text": "Кордильеры", "IsCorrect": false }
+                ]
+            }
+        ]
+    }
+]

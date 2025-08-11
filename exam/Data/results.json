@@ -1,0 +1,32 @@
+[
+  {
+    "Login": "bek",
+    "QuizId": "bio01",
+    "Date": "2025-08-11T20:39:34.2255597+05:00",
+    "CorrectCount": 0
+  },
+  {
+    "Login": "kas",
+    "QuizId": "mixed",
+    "Date": "2025-08-11T20:40:40.385871+05:00",
+    "CorrectCount": 0
+  },
+  {
+    "Login": "kas",
+    "QuizId": "mixed",
+    "Date": "2025-08-11T20:45:20.8834727+05:00",
+    "CorrectCount": 3
+  },
+  {
+    "Login": "kas",
+    "QuizId": "bio01",
+    "Date": "2025-08-11T21:33:39.9000665+05:00",
+    "CorrectCount": 2
+  },
+  {
+    "Login": "kas",
+    "QuizId": "geo01",
+    "Date": "2025-08-11T21:54:12.9978664+05:00",
+    "CorrectCount": 1
+  }
+]

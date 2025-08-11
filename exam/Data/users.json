@@ -1,0 +1,12 @@
+[
+  {
+    "Login": "bek",
+    "PasswordHash": "dbff5341acad5e2a58db4efd5e72e2d9a0a843a28e02b1183c68162d0a3a3de6",
+    "BirthDate": "2006-12-03"
+  },
+  {
+    "Login": "kas",
+    "PasswordHash": "7d161ab7beb081624d2f0e7ac807039d10485c8b84d89f8d9c0d85eb891249f0",
+    "BirthDate": "2025-06-27"
+  }
+]
